@@ -1,0 +1,16 @@
+C:\job\barrtary\laser_winform\mes_winform\mes_winform\bin\Release\net8.0-windows\mes_winform.exe
+C:\job\barrtary\laser_winform\mes_winform\mes_winform\bin\Release\net8.0-windows\mes_winform.deps.json
+C:\job\barrtary\laser_winform\mes_winform\mes_winform\bin\Release\net8.0-windows\mes_winform.runtimeconfig.json
+C:\job\barrtary\laser_winform\mes_winform\mes_winform\bin\Release\net8.0-windows\mes_winform.dll
+C:\job\barrtary\laser_winform\mes_winform\mes_winform\bin\Release\net8.0-windows\mes_winform.pdb
+C:\job\barrtary\laser_winform\mes_winform\mes_winform\obj\Release\net8.0-windows\mes_winform.Form1.resources
+C:\job\barrtary\laser_winform\mes_winform\mes_winform\obj\Release\net8.0-windows\mes_winform.csproj.GenerateResource.cache
+C:\job\barrtary\laser_winform\mes_winform\mes_winform\obj\Release\net8.0-windows\mes_winform.GeneratedMSBuildEditorConfig.editorconfig
+C:\job\barrtary\laser_winform\mes_winform\mes_winform\obj\Release\net8.0-windows\mes_winform.AssemblyInfoInputs.cache
+C:\job\barrtary\laser_winform\mes_winform\mes_winform\obj\Release\net8.0-windows\mes_winform.AssemblyInfo.cs
+C:\job\barrtary\laser_winform\mes_winform\mes_winform\obj\Release\net8.0-windows\mes_winform.csproj.CoreCompileInputs.cache
+C:\job\barrtary\laser_winform\mes_winform\mes_winform\obj\Release\net8.0-windows\mes_winform.dll
+C:\job\barrtary\laser_winform\mes_winform\mes_winform\obj\Release\net8.0-windows\refint\mes_winform.dll
+C:\job\barrtary\laser_winform\mes_winform\mes_winform\obj\Release\net8.0-windows\mes_winform.pdb
+C:\job\barrtary\laser_winform\mes_winform\mes_winform\obj\Release\net8.0-windows\mes_winform.genruntimeconfig.cache
+C:\job\barrtary\laser_winform\mes_winform\mes_winform\obj\Release\net8.0-windows\ref\mes_winform.dll
